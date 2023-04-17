@@ -3,6 +3,7 @@
 Joe Esser, Electrical Engineering Student (2024), joeesser@vt.edu <br>
 Aniruddh Chauhan, aniruddh2002@vt.edu <br>
 Neil Baptiste, neiljb20@vt.edu <br>
+Tim McEvoy, Aerospace Engineering Student (2025), timothymcevoy@vt.edu <br>
 
 ## Repo Link
 <a class="button is-link" href="[https://magicmirror.builders/](https://github.com/joeesser1842/obdh)" >https://github.com/joeesser1842/obdh</a>
